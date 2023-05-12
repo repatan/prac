@@ -1,0 +1,6 @@
+Ansible:
+
+ansible playbook is the blueprint for our automation.
+helps you to complete repetative tasks
+YAML format
+Handlers are just like regular tasks in an Ansible playbook (see Tasks) but are only run if the Task contains a notify keyword and also indicates that it changed something.
